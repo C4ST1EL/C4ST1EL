@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C4ST1EL
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, Java, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
