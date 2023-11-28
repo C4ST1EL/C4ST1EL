@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @C4ST1EL
-- 👀 I’m interested in fullstack development
+- 👋 Hi, I’m Jonas Luiz Pacheco
+- 👀 I’m interested in Data Science development
 - 🌱 I’m currently learning Python, Java, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
