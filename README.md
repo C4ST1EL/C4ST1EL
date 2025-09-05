@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonas Luiz Pacheco
 - 👀 I’m interested in Data Science development
-- 🌱 I’m currently learning Python, Java, SQL
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
